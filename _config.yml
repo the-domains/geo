@@ -2,6 +2,7 @@ name: geo
 favicon: null
 layout_spectrum: 0.38392040226608515
 typography_spectrum: 0.48198358132503927
+title: GeoSite
 cta:
   domain: null
   bucket: null
